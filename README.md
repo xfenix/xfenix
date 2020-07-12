@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Im software developer. My primary language — python. I develop opensource packages from time to time. Intrested in collaborations.
+Im software developer. My primary language — python. I develop opensource packages from time to time.  
+Intrested in collaborations.
                                                                     
 
 <!--
