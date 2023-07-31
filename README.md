@@ -3,4 +3,4 @@ I am a software engineer. My main language is python, my second is typescript, I
 <br>
 Sometimes I speak at conferences and also participate in podcasts.
 <br>
-More information about me and contacts can be found on my website https://xfenix.ru/.
+More information about me and contacts can be found on my website https://xfenix.ru/. Also, you can [download my CV here](./summary.pdf).
