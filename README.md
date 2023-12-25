@@ -1,6 +1,4 @@
 ### Hi! 🤡😼🌚
-I am a software engineer. My main language is python, my second is typescript, I also used to write in PHP for quite some time and some time in go. I'm always interested in contributing to open source projects. If you are looking for contributors, feel free to contact me.
+I am a software engineer with Python as my primary language and TypeScript as my secondary. I have substantial experience in PHP and have also spent some time working with Go. I am always keen on contributing to open-source projects, so if you're in need of contributors, please feel free to reach out.
 <br>
-Sometimes I speak at conferences and also participate in podcasts.
-<br>
-More information about me and contacts can be found on my website https://xfenix.ru/. Also, you can [download my CV here](./summary.pdf).
+Additionally, I often speak at conferences and participate in podcasts. You can find more information about me and my contact details on my website at https://xfenix.ru/. My resume is also available for download my CV here](./summary.pdf).
